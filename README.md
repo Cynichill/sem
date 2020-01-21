@@ -1,1 +1,1 @@
-Reeeeee
+[![Build Status](https://travis-ci.com/Cynichill/sem.svg?branch=master)](https://travis-ci.com/Cynichill/sem)
